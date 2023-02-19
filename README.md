@@ -156,7 +156,7 @@ ORDER BY 2 DESC;
 
 Central has the highest median price and East/West regions have similar median prices.
 
-** Note **: 
+** Note **  
 - From here onwards, I will no longer display the query results as they tend to be longer and take up too much display space.
 
 ### 6. Most Expensive Neighbourhoods with Listings Count
